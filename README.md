@@ -12,7 +12,7 @@
 <div align="center">
 <h4 align="left">GitHub Stats:</h4>  
   
-[![Wagner Cotta GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnercotta&hide_title=true&show_icons=true&count_private=true&theme=prussian)](https://github.com/wagnercotta/github-readme-stats)
+[![Wagner Cotta GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnercotta&hide_title=true&show_icons=true&count_private=true&theme=prussian)](https://github.com/wagnercotta)
   
 </div>
 
