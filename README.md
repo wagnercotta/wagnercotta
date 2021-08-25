@@ -1,7 +1,7 @@
 <h1 align="center">Aye! Dear Visitor! 👋 </h1>
 <h3 align="center">I'm Wagner Cotta, a curious man that like to study about Information and Communication Technologies.</h3>
 <hr/>
-<h4> Academic Formation </h4>
+<h4> Academic Formation: </h4>
 
 * BSc Electrical Engineering - IFES (2017)
 * MSc Electrical Engineering - UFES (2020)
