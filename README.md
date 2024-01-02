@@ -1,5 +1,5 @@
 <h1 align="center">Aye! Dear Visitor! 👋 </h1>
-I am Wagner Cotta. An engineer that loves system and software development since the age of 13, when began a continuous and self-taught journey into programming.
+I am Wagner Cotta, an engineer that loves system and software development since the age of 13, when began a continuous and self-taught journey into programming.
 Being dedicated, tenacious, and self-critical, I have been working in the IT area since 2011, when I still was an undergraduate student. 
 This journey has allowed me to accumulate valuable experience and knowledge in many concepts and technologies, methodologies, programming languages, systems, and tools, such as:
 
